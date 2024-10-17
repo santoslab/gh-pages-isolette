@@ -174,6 +174,30 @@
         <h3 id="overview">Overview</h3>
 <p>The SAnToS Isolette Artifacts provide an end-to-end example of model-based development with integrated formal methods.</p>
 <p>The Isolette system is based on requirements and design introduced in the <a href="http://pub.santoslab.org/high-assurance/module-requirements/reading/FAA-DoT-Requirements-AR-08-32.pdf">FAA Requirements Engineering Management Handbook</a> (note that Appendix A contains a summary of Isolette requirements).</p>
+<p>The available artifacts include:</p>
+<ul>
+<li>System use cases formalized using the <em>use case map</em> notation in the
+JUCMNav tool.</li>
+<li>Natural langauge requirements and informal designs.</li>
+<li>Formal system architecture specifications in the AADL and SysMLv2
+modeling languages.</li>
+<li>Developer-friendly component behavioral specifications integrated
+with system models using the GUMBO contract language.</li>
+<li>Automated code generation in Slang (a safety-critical subset of
+Scala) and C, integrated with run-time libraries for threading and
+communication compliant with the AADL standard.</li>
+<li>Slang component implementations with integrated behavioral
+contracts.  Slang code is verified to conform to the contracts
+(auto-generated from the GUMBO model-level contracts) using the
+Logika verification tool.</li>
+<li>Conventional unit tests and automated property-based testing against
+executable contracts automatically derived from GUMBO model-level contracts.</li>
+</ul>
+<p>The Isolette Artifacts have been used in graduate courses on software
+engineering and formal verification as well as in industry training
+materials.</p>
+<p>A variety of pedogical materials are available including lecture
+slides, lecture videos, tutorials, and suggested assignments/projects.</p>
 
     </main>
 

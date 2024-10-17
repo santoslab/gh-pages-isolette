@@ -34,7 +34,9 @@ Testing of Component Application Code to Contracts Verification Component Applic
       
       <guid>https://isolette.santoslab.org/overview/</guid>
       <description>Overview The SAnToS Isolette Artifacts provide an end-to-end example of model-based development with integrated formal methods.
-The Isolette system is based on requirements and design introduced in the FAA Requirements Engineering Management Handbook (note that Appendix A contains a summary of Isolette requirements).</description>
+The Isolette system is based on requirements and design introduced in the FAA Requirements Engineering Management Handbook (note that Appendix A contains a summary of Isolette requirements).
+The available artifacts include:
+System use cases formalized using the use case map notation in the JUCMNav tool. Natural langauge requirements and informal designs. Formal system architecture specifications in the AADL and SysMLv2 modeling languages.</description>
     </item>
     
     <item>
