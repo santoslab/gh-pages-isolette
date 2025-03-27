@@ -5,51 +5,35 @@
     <link>https://isolette.santoslab.org/</link>
     <description>Recent content on SAnToS Isolette Artifacts</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://isolette.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://isolette.santoslab.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://isolette.santoslab.org/artifacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://isolette.santoslab.org/artifacts/</guid>
-      <description>Artifacts Operational Concepts (Formal Use Cases) Requirements Requirements blah .. blah
-Formal Architecture Specification with Behavior Contracts Requirements blah .. blah
-Architecture-compliant Component Application Code with SMT-based Verification to Contracts Using Logika
-Testing of Component Application Code to Contracts Verification Component Application Code to Contracts with Logika (developer friendly SMT-based verification) </description>
+      <description>Artifacts The following summaries are excerpted and adapted from the descriptions in the overview paper.&#xA;Operational Concepts (Formal Use Cases) Operational concepts (system use cases presented in the style of Cockburn&amp;rsquo;s &amp;ldquo;Writing Effective Use Cases&amp;rdquo;) are presented in the REMH to support system scoping, requirements elicitation, and initial system design.&#xA;The Isolette artifacts supplement the REMH presentation with formalizations of the use cases in the jUCMNav use case modeling tool.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://isolette.santoslab.org/lectures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://isolette.santoslab.org/lectures/</guid>
       <description>Lectures Lecture slides are available to support the use of the Isolette Artifacts in teaching.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://isolette.santoslab.org/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://isolette.santoslab.org/overview/</guid>
-      <description>Overview The SAnToS Isolette Artifacts provide an end-to-end example of model-based development with integrated formal methods.
-The Isolette system is based on requirements and design introduced in the FAA Requirements Engineering Management Handbook (note that Appendix A contains a summary of Isolette requirements).
-The available artifacts include:
-System use cases formalized using the use case map notation in the JUCMNav tool. Natural langauge requirements and informal designs. Formal system architecture specifications in the AADL and SysMLv2 modeling languages.</description>
+      <description>Overview The SAnToS Isolette Artifacts provide an end-to-end example of model-based development with integrated formal methods.&#xA;The Isolette system is based on requirements and design introduced in the FAA Requirements Engineering Management Handbook (note that Appendix A contains a summary of Isolette requirements).&#xA;The available artifacts include:&#xA;System use cases formalized using the use case map notation in the JUCMNav tool. Natural langauge requirements and informal designs. Formal system architecture specifications in the AADL and SysMLv2 modeling languages.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://isolette.santoslab.org/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://isolette.santoslab.org/tools/</guid>
-      <description>Tools The Isolette Artifacts make use of the following tools.
-Sireum
-Sireum is a programming language, software engineering, and formal methods framework developed at Kansas State University. This class will use Slang (the Sireum programming Language) and Logika (an automated SMT-based verification environment for Slang)
-Download and installation instructions &amp;ndash; installation based on git sources is recommended Video overview of Slang and Logika </description>
+      <description>Tools The Isolette Artifacts make use of the following tools.&#xA;Sireum&#xA;Sireum is a programming language, software engineering, and formal methods framework developed at Kansas State University. This class will use Slang (the Sireum programming Language) and Logika (an automated SMT-based verification environment for Slang)&#xA;Download and installation instructions &amp;ndash; installation based on git sources is recommended Video overview of Slang and Logika </description>
     </item>
-    
   </channel>
 </rss>
